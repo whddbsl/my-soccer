@@ -1,0 +1,12 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/team/[teamId]": "pages/team/[teamId].js",
+  "/login": "pages/login.js",
+  "/api/vote/list": "pages/api/vote/list.js",
+  "/api/team/[teamId]": "pages/api/team/[teamId].js",
+  "/api/user/info": "pages/api/user/info.js",
+  "/": "pages/index.js",
+  "/api/user/teams": "pages/api/user/teams.js"
+}
